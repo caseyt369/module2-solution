@@ -1,0 +1,45 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+h1 {
+	text-align: center;
+}
+#box {
+	background-color: gray;
+	border: 3px solid black;
+	padding: 50px;
+	margin: 50px;
+}
+#content1 {
+	background-color: pink;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+	float: right
+}
+#content2 {
+	background-color: darkred;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	float: right;
+}
+#content3 {
+	background-color: lightyellow;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+	float: right;
+}
+@media (min-width: 992px) {
+
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (max-width: 767px) {
+	
+}
